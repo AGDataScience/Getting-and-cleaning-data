@@ -16,6 +16,7 @@ The code combined a training dataset and a test dataset, and extracted partial v
 ## New dataset
 The new generated dataset contained variables calculated based on the mean and standard deviation. Each row of the dataset is an average of each activity type for all subjects.
 The code was written based on the instruction of this assignment
+
 0. Read the training, test dataset, variables names and subject index into R.
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
