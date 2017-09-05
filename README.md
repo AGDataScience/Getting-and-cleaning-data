@@ -4,6 +4,7 @@
 In this repository you will find the files related to the assignment for week 4 of Getting and Cleaning Data Coursera course: 
 * a code book that describes the variables, the data, and the transformations made to clean up the data called 'CodeBook.md'
 * a R script called 'run_analysis.R' that generates a tidy data file.
+
 As a prerequisite you will need to download and unzip the data file into your R working directory
 
 ## Data description
